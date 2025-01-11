@@ -1,5 +1,8 @@
 # Bike_Rental_Prediction
 
+## 項目展示
+![](https://github.com/yuchi1226/Predicting-Bicycle-Rental-Volume-Through-Web-Crawling/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-01-11%20163619.png)
+
 ## 功能
 
 1. 以"Seoul Bike Sharing Demand Prediction"為資料集，預測租借數量(Rented Bike Count)
